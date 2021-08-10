@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*index css start here*/
+.navbar img{
+    height: 120px;
+    width: 150px;
+}
+
+
+
+
+a{
+    color: chocolate;
+    list-style: none;
+    padding: 20px;
+    float: right;
+    text-decoration: none;
+}
